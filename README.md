@@ -32,9 +32,9 @@ This repository showcases my practical experience in comprehensive test document
 **Project Description:** A highly personalized, secure mobile platform engineered for mental health tracking, pattern analysis, and emotional wellness optimization. The app features localized lifestyle tracking, rich multimedia guided sessions, data encryption protocols, and interactive community networks.
 
 * **QA Focus & Core Competencies:**
-* **Functional E2E Validation & Core Workflows:** Extensively tested critical end-to-end user journeys on native iOS hardware (iPhone 13), including complex multi-step user registration, secure authentication, biometric/standard login mechanisms, and data submission pipelines to guarantee seamless workflow continuity.
-* **Data Input Validation & Robust Error Handling:** Validated boundary value constraints, input field sanitization, and form validation logic across emotional tracking charts and onboarding screens to ensure system stability against edge-case inputs and to verify proper error message rendering.
-* **UI/UX & Architectural Navigation Integrity:** Evaluated overall visual responsiveness, navigation menu state transitions, multi-touch interactive gesture handling, and dynamic cross-device UI scaling to ensure complete accessibility compliance and layout consistency across high-resolution viewports.
+  * **Functional E2E Validation & Core Workflows:** Extensively tested critical end-to-end user journeys on native iOS hardware (iPhone 13), including complex multi-step user registration, secure authentication, biometric/standard login mechanisms, and data submission pipelines to guarantee seamless workflow continuity.
+  * **Data Input Validation & Robust Error Handling:** Validated boundary value constraints, input field sanitization, and form validation logic across emotional tracking charts and onboarding screens to ensure system stability against edge-case inputs and to verify proper error message rendering.
+  * **UI/UX & Architectural Navigation Integrity:** Evaluated overall visual responsiveness, navigation menu state transitions, multi-touch interactive gesture handling, and dynamic cross-device UI scaling to ensure complete accessibility compliance and layout consistency across high-resolution viewports.
  
 
 ---
